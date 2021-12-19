@@ -1,4 +1,4 @@
-# FRIENDS-TV-show-Dialogues-and-Scenes-Analysis
+# FRIENDS TV show Dialogues and Scenes Analysis
 
 Scraped FRIENDS dialogues from: https://fangj.github.io/friends/ using BeautifulSoup4
 
